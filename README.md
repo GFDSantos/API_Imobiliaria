@@ -80,3 +80,5 @@ Condominio Epicentro, Av. Professor Pereira Reis, 42, Dois quartos c/suíte, 520
 Residencial Quinta do Bispo, Rua do Bispo, 83, Dois quartos c/suíte, 490000
 Cury Trendy Cachambi, Rua do Cachambi 703, Dois quartos, 320000
 
+Os preços acima são meramente ilustrativos não tendo nenhuma validade comercial.
+
